@@ -51,7 +51,7 @@ int[,] FillSpiralMatrix(int row, int col)
             Right++;
         }
         k++;
-        
+        // можно очень легко сделать в обратную сторону
         
     }
     return matrix;
