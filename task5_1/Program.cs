@@ -9,15 +9,15 @@
 int[,] FillSpiralMatrix(int row, int col)
 {
     int[,] matrix = new int[row, col];
-    // сужения
-    int Up = 0; // сверху
-    int Down = 0; // снизу
-    int Left = 0; // слева
-    int Right = 0; // справа
+   
+    int Up = 0;
+    int Down = 0; 
+    int Left = 0; 
+    int Right = 0; 
 
-    int i = 0; // координаты строки
-    int j = 0; // координаты столбца
-    int k = 0; // счетчик с значениями элементов
+    int i = 0; 
+    int j = 0; 
+    int k = 0; 
 
     while(k <= row* col - 1)
     {
