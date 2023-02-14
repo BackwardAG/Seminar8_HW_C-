@@ -1,0 +1,15 @@
+/Users/admin/Seminar9_C#/task5_1/obj/Debug/net6.0/task5_1.csproj.AssemblyReference.cache
+/Users/admin/Seminar9_C#/task5_1/obj/Debug/net6.0/task5_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Seminar9_C#/task5_1/obj/Debug/net6.0/task5_1.AssemblyInfoInputs.cache
+/Users/admin/Seminar9_C#/task5_1/obj/Debug/net6.0/task5_1.AssemblyInfo.cs
+/Users/admin/Seminar9_C#/task5_1/obj/Debug/net6.0/task5_1.csproj.CoreCompileInputs.cache
+/Users/admin/Seminar9_C#/task5_1/bin/Debug/net6.0/task5_1
+/Users/admin/Seminar9_C#/task5_1/bin/Debug/net6.0/task5_1.deps.json
+/Users/admin/Seminar9_C#/task5_1/bin/Debug/net6.0/task5_1.runtimeconfig.json
+/Users/admin/Seminar9_C#/task5_1/bin/Debug/net6.0/task5_1.dll
+/Users/admin/Seminar9_C#/task5_1/bin/Debug/net6.0/task5_1.pdb
+/Users/admin/Seminar9_C#/task5_1/obj/Debug/net6.0/task5_1.dll
+/Users/admin/Seminar9_C#/task5_1/obj/Debug/net6.0/refint/task5_1.dll
+/Users/admin/Seminar9_C#/task5_1/obj/Debug/net6.0/task5_1.pdb
+/Users/admin/Seminar9_C#/task5_1/obj/Debug/net6.0/task5_1.genruntimeconfig.cache
+/Users/admin/Seminar9_C#/task5_1/obj/Debug/net6.0/ref/task5_1.dll
